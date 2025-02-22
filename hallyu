@@ -1,0 +1,9 @@
+
+mkdir hallyu-map
+cd hallyu-map
+
+
+git init
+
+
+git remote add origin https://github.com/your-chechefly/hallyu-map.git
